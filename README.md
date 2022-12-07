@@ -10,6 +10,12 @@ My teammates:
 - [Julia Kruglova ](https://github.com/harleycat80)
 
   Teamwork version you can find [here](https://github.com/AllaBorisova/rslang/pull/38)
+  
+Important!
+------------
+
+To see fully working app you need to run backend lockally and npm start for run app.
+Backend: https://github.com/rolling-scopes-school/react-rslang-be
 
 Task
 ------------
